@@ -4,6 +4,8 @@ Statistical Analysis of different Roads in Australia.
 Roads in Australia - Major Road Length Analysis
 This Power BI report provides an interactive visualization of major road lengths across different states and territories in Australia. The primary goal of this report is to allow users to quickly identify which states have the longest major road networks, represented by a choropleth map with varying shades.
 
+NOTE : The Report file can be downloaded from the link - https://drive.google.com/drive/u/3/folders/1gYusuI3VOemeCpBHfzFm-8VuC3GdEkbL
+
 Features
 Interactive Map: A map of Australia where each state is colored based on the total length of its major roads. Darker shades indicate a greater total road length.
 
